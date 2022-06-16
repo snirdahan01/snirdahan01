@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Snir Dahan, a Software Engineer and a Front-end Web Developer
-- 👀 I’m interested in Wev apps and ReactJS particulary
+- 👀 I’m interested in Web apps and ReactJS particulary
 - 🌱 I’m currently learning Advanced ReactJS
 - 📫 How to reach me: snirdahan01@gmail.com
